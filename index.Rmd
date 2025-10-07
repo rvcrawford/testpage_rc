@@ -1,0 +1,8 @@
+---
+title: "homepage"
+author: "Ryan Crawford"
+date: "2025-10-07"
+output: html_document
+---
+
+### Look at me!
